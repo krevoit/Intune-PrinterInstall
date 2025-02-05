@@ -1,6 +1,6 @@
 # Intune Printer Install
 
-Installs Windows SMB print queues and drivers onto an Intune managed device through Company Portal.
+Installs Windows SMB print queues and drivers onto an Intune managed device through Company Portal. Installs driver on system and print queue per user. Does not require admin and works on Azure AD Joined & Hybrid AD Joined.
 
 ---
 
